@@ -3,7 +3,7 @@ import { Container, Row, Col, Button } from 'react-bootstrap';
 
 const Services = () => {
     return (
-        <div className="services-section">
+        <div className="services-section" id='Services'>
             <Container>
                 <h2 className="text-center mb-4">Services offered by this Dealer</h2>
                 <Row className="text-center">

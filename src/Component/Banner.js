@@ -4,7 +4,7 @@ import bannerImage from '../Component/Banner.jpg'; // Add a banner image in your
 
 const Banner = () => {
     return (
-        <div style={{ backgroundImage: `url(${bannerImage})`, height: '400px', backgroundSize: 'cover' }}>
+        <div id='Banner' style={{ backgroundImage: `url(${bannerImage})`, height: '400px', backgroundSize: 'cover' }}>
             <Container>
                 <Row>
                     <Col>
