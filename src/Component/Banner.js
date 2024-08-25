@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import bannerImage from '../Component/service.jpg'; // Add a banner image in your assets folder
+import bannerImage from '../Component/Banner.jpg'; // Add a banner image in your assets folder
 
 const Banner = () => {
     return (
