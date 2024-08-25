@@ -103,7 +103,7 @@ const styles = {
     },
     questionSection: {
         padding: '20px',
-        backgroundColor: '#fff4cc',
+        backgroundColor: '#4CAF50',
         borderRadius: '8px',
         textAlign: 'center',
         // marginTop: '20px',
